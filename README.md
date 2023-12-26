@@ -16,3 +16,7 @@ curl http://localhost:3000/api/os
 ```
 curl http://localhost:3000/api/getAPIList
 ```
+
+```
+curl http://localhost:3000/api/getAllowedIPs
+```
